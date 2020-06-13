@@ -85,7 +85,7 @@ gallery:
   enable : true
   title : "ScreenShots"
   directory : "images/showcase"
-  images : ["sc1.png", "sc2.png", "sc3.png", "sc4.png"]
+  images : ["sc1.png", "sc2.png", "sc3.png", "sc4.png", "sc5.png"]
 
 
 ################################## call to action ###################
