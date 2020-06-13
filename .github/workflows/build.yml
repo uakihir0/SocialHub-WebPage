@@ -38,6 +38,7 @@ jobs:
           git pull origin master
           mkdir -p socialhub
           rsync -av ../public/ ../workspace/socialhub/ --exclude '/.git/' --exclude '.DS_Store' --exclude '/socialhub/'
+          cat "DirectoryIndex index.html" > .htaccess
           git add --all
           git commit -m "by GitHub Action CI (SHA ${GITHUB_SHA})"
           git push origin master
