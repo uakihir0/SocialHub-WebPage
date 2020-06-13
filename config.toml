@@ -1,0 +1,70 @@
+################################### Default Configuration ############################
+baseurl = "https://uakihir0.github.io/socialhub/"
+languageCode = "ja"
+title = "SocialHub"
+theme = "vex-hugo"
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+#################################### Plugins ##########################################
+
+# CSS Plugins
+[[params.plugins.css]]
+URL = "https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:300,400,600,700"
+#[[params.plugins.css]]
+#URL = "https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+URL = "css/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "css/themefisher-fonts.css"
+[[params.plugins.css]]
+URL = "css/owl.carousel.css"
+[[params.plugins.css]]
+URL = "css/magnific-popup.css"
+
+# JS Plugins
+[[params.plugins.js]]
+URL = "js/jquery-2.1.1.min.js"
+[[params.plugins.js]]
+URL = "js/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "js/owl.carousel.min.js"
+[[params.plugins.js]]
+URL = "js/jquery.magnific-popup.min.js"
+
+
+###################################### Navigation ######################################
+
+[[menu.main]]
+name = "Feature"
+URL = "feature"
+weight = 2
+
+[[menu.main]]
+name = "Gallery"
+URL = "gallery"
+weight = 3
+
+[[menu.main]]
+name = "Review"
+URL = "testimonial"
+weight = 4
+
+
+########################### Default parameters ##########################
+[params]
+logo = ""
+home = "Home"
+# Meta data
+description = "SocialHub"
+author = "Akihiro Urushihara"
+# Google Analitycs
+google_analitycs_id = "" # Your ID
+# copyright
+copyright = "Copyright 2020 &copy; Akihiro Urushihara | All right reserved."
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format

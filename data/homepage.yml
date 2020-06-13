@@ -1,0 +1,111 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "Make<br>Communication<br>Efficient."
+  content : "SNS に時間を使いすぎていませんか？<br>SocialHub は Twitter Mastodon Slack Tumblr Misskey を同時に閲覧・投稿が可能な高機能なクライアントアプリです。"
+  image : "images/top.png"
+  button: "AppStore "
+  link : "https://apps.apple.com/jp/app/id1474451582"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Features"
+  image : "images/timeline.png"
+
+  # feature at the left of the image
+  leftSide:
+  - icon : "tf-ion-ios-world-outline"
+    title : "多様な SNS に対応"
+    content : "SocialHub は複数の SNS を跨いだ閲覧や投稿を可能にし、あなたのコミュニケーションをより効率的にします。"
+    
+  - icon : "tf-ion-ios-heart-outline"
+    title : "エレガントなデザイン"
+    content : "アプリは毎日使うもの、だからこそデザインは綺麗でわかりやすくあるべきです。SocialHub ではデザインを妥協しません。"
+    
+  - icon : "tf-ion-ios-people-outline"
+    title : "用途に合わせたアカウント管理"
+    content : "マルチアカウント対応はもちろん、公私などの区別でグループ分けが可能で、シーンに合わせて使い分けが可能です。"
+
+
+  # feature at the right of the image
+  rightSide:
+  - icon : "tf-ion-social-twitter-outline"
+    title : "SNS 固有の機能に対応"
+    content : "複数 SNS に対応していても、個々の対応を中途半端にはしません。Twitter では DM やトレンド等も完備しています。"
+
+  - icon : "tf-ion-ios-gear-outline"
+    title : "高カスタマイズ性"
+    content : "高度にカスタマイズ可能なクライアントアプリを目指して実装を進めています。また道半ばですが、順次実装を進めています。"
+
+  - icon : "tf-ion-ios-plus-outline"
+    title : "継続的なアップデート"
+    content : "コミュニケーションの方法は常に変化するため、アプリも常に進化しなくてはなりません。SocialHub 継続的に更新してい"
+
+
+############################# promo ############################
+promo:
+  enable : false
+  image : "images/top.png"
+  title : "Designed by professional , the benefit for creative gigs"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
+            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+            <br><br>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+
+
+############################# About Product #######################
+aboutProduct:
+  enable : false
+  title : "Why Choose Apple Watch"
+  items:
+    # about product item loop
+    - title : "Lorem ipsum dolor sit amet."
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+            quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable : true
+        label : "Check Features"
+        link : "#"
+        
+    # about product item loop
+    - title : "Lorem ipsum dolor sit amet."
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+            quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable : true
+        label : "Check Features"
+        link : "#"
+
+
+#################################### Gallery ########################
+gallery:
+  enable : true
+  title : "ScreenShots"
+  directory : "images/showcase"
+  images : ["sc1.png", "sc2.png", "sc3.png", "sc4.png"]
+
+
+################################## call to action ###################
+cta:
+  enable : false
+  bgImage : "images/call-to-action.jpg"
+  title : "Get Product Updates"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder : "Your Email Address Here"
+
+
+############################## Testimonial ##########################
+testimonial:
+  enable : true
+  title : "Review"
+  testimonialItem:
+    - content : "多数のSNSに対応！合同タイムラインの閲覧もできる。細部まで拘った、スタイリッシュで使いやすいデザインも魅力的。 [Twitterアプリのおすすめ人気ランキング10選【iOS・Android別】- mybest](https://my-best.com/1960)"  
+
+    # testimonial item loop
+    # - name : "Jonathon Andrew"
+    #   designation : "CEO, Themefisher"
+    #   image : "images/avater.png"
+    #   content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
