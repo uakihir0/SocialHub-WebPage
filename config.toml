@@ -62,7 +62,7 @@ author = "Akihiro Urushihara"
 # Google Analitycs
 google_analitycs_id = "" # Your ID
 # copyright
-copyright = "Copyright 2020 &copy; Akihiro Urushihara | All right reserved."
+copyright = "Copyright 2020 &copy; [Akihiro Urushihara](https://uakihir0.github.io/) | All right reserved."
 
 # Preloader
 [params.preloader]

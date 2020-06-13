@@ -40,7 +40,7 @@ features:
 
   - icon : "tf-ion-ios-plus-outline"
     title : "継続的なアップデート"
-    content : "コミュニケーションの方法は常に変化するため、アプリも常に進化しなくてはなりません。SocialHub 継続的に更新してい"
+    content : "コミュニケーションの方法は常に変化するため、アプリも常に進化しなくてはなりません。これからの進化にご期待ください！"
 
 
 ############################# promo ############################
@@ -56,28 +56,17 @@ promo:
 
 ############################# About Product #######################
 aboutProduct:
-  enable : false
-  title : "Why Choose Apple Watch"
+  enable : true
+  title : "Already Using?"
   items:
-    # about product item loop
-    - title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - title : "ご意見・ご要望をお聞かせください"
+      content : "SocialHub はユーザーさんのご意見を聞き、その上で様々な機能追加を行っていくことを機能開発の指針にしています。
+      どのような機能が欲しいのか？ これはバグではないのか？ 等様々なご連絡お待ちしています。[Twitter](https://twitter.com/SocialHub_JP) 
+      にてもご連絡を受け付けていますので、お好きな方法でお問い合わせしていただければと思います。"
       button:
         enable : true
-        label : "Check Features"
-        link : "#"
-        
-    # about product item loop
-    - title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable : true
-        label : "Check Features"
-        link : "#"
+        label : "連絡フォーム"
+        link : "https://docs.google.com/forms/d/e/1FAIpQLSddI0UJL7ZKOifzWZEXnnTS4XDUdo-ke7GH70SbGeygUYUwQQ/viewform?usp=sf_link"
 
 
 #################################### Gallery ########################
