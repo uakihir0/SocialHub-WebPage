@@ -61,7 +61,7 @@ aboutProduct:
   items:
     - title : "ご意見・ご要望をお聞かせください"
       content : "SocialHub はユーザーさんのご意見を聞き、その上で様々な機能追加を行っていくことを機能開発の指針にしています。
-      どのような機能が欲しいのか？ これはバグではないのか？ 等様々なご連絡お待ちしています。[Twitter](https://twitter.com/SocialHub_JP) 
+      どのような機能が欲しいのか？ これはバグではないのか？ 等様々なご連絡お待ちしています。[作者 Twitter](https://twitter.com/uakihir0) 
       にてもご連絡を受け付けていますので、お好きな方法でお問い合わせしていただければと思います。"
       button:
         enable : true
