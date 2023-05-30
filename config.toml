@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://uakihir0.github.io/socialhub/"
+baseurl = "https://www.uakihir0.com/socialhub/"
 languageCode = "ja"
 title = "SocialHub"
 theme = "vex-hugo"
