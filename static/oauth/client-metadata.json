@@ -4,7 +4,7 @@
     "client_uri": "https://www.uakihir0.com/socialhub/",
     "application_type": "native",
     "redirect_uris": [
-      "http://localhost/callback"
+      "http://127.0.0.1/callback"
     ],
     "response_types": [
       "code"
